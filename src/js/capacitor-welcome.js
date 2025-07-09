@@ -84,6 +84,14 @@ window.customElements.define(
         <p>
           <img id="image" style="max-width: 100%">
         </p>
+        <h2>Fullscreen embed</h2>
+        <p>
+          Iframe to a site that go fullscreen!
+        </p>
+        <iframe 
+          src="https://api.momindum.com/watch/uD3ia9PaDspTqG0A-XUJKSUHCkrQHmwNHPge8cngPAU."
+          allowFullScreen
+          style="width: 100%; aspect-ratio: 16/9; border: 0px"></iframe> 
       </main>
     </div>
     `;
