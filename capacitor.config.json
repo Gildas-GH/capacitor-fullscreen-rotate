@@ -1,0 +1,10 @@
+{
+  "appId": "fr.ecobosto.capacitorbug",
+  "appName": "Bug Fullscreen+Rotate",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}

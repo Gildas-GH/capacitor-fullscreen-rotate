@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Bug Fullscreen+Rotate</string>
+    <string name="title_activity_main">Bug Fullscreen+Rotate</string>
+    <string name="package_name">fr.ecobosto.capacitorbug</string>
+    <string name="custom_url_scheme">fr.ecobosto.capacitorbug</string>
+</resources>
